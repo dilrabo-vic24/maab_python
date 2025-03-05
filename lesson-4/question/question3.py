@@ -1,0 +1,2 @@
+#for: for sikli ma'lum bir ketma-ketlik (list, tuple, set va hokazo) elementlari bo'ylab iteratsiya qilish uchun ishlatiladi. U odatda siklning necha marta takrorlanishi oldindan ma'lum bo'lganda qo'llaniladi.
+#while: while sikli berilgan shart rost (True) bo'lganda kod blokini takrorlaydi. U odatda siklning necha marta takrorlanishi shartga bog'liq bo'lganda qo'llaniladi.
